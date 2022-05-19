@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 0366c9cea7006f5438030539737af464
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 36f8ec204dd80874f8390ffccd869632
+  - enabled: 1
+    path: Assets/Scenes/StageEasy.unity
+    guid: c2b6b67435a701e49831f4f1d829ed4c
+  - enabled: 1
+    path: Assets/Scenes/StageNormal.unity
+    guid: e9b0f02fd30052047bba22043114cba1
+  - enabled: 1
+    path: Assets/Scenes/StageHard.unity
+    guid: f54bfce6fbc849943b79db45ef491073
+  - enabled: 1
+    path: Assets/Scenes/StageVeryHard.unity
+    guid: d8d6fceec9ee06a4e98a1bf2eca14938
+  - enabled: 1
+    path: Assets/Scenes/StageSecret.unity
+    guid: 565b1d5e3c31c834eabbf7fd239f0a11
+  - enabled: 1
+    path: Assets/Scenes/GotoSecret.unity
+    guid: bf53461d648d94048ad6026ebe338c48
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/StageEasy1.unity
+    guid: 4db1bc8d5e640bf4fb8d2f0042a7db66
+  - enabled: 0
+    path: Assets/Scenes/StageNormal1.unity
+    guid: fdb149aab40406a468ea4ea340073359
+  - enabled: 0
+    path: Assets/Scenes/StageHard1.unity
+    guid: 6380195acd1e2a944aeac60fb9ac2fde
+  - enabled: 0
+    path: Assets/Scenes/StageVeryHard1.unity
+    guid: 3d8ea0577b2ef374e8a7beebf80269b8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 8b00ebabe48371b4ea20ee5b13f3a200
+  m_configObjects: {}
